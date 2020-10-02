@@ -1,14 +1,11 @@
 ### नमस्ते 👋 I am अक्षत from मुरादाबाद, India!
-
+### Look Down To Know More About ME !
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Front End Development
-- 🌱 I’m currently learning ...React JSX and Java Script
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... HTML/CSS
-- 📫 How to reach me: ... [Twitter](https://twitter.com/hawkeye_pirate_)
-- 😄 Pronouns: ... hawkeye_pirate
-- ⚡ Fun fact: ... I am an AThelete
--->
+- 🔭 I’m a Web Developer
+-🌱 Currently Studying: .React JSX and Java Script
+- 📫 Get me on  [Twitter](https://twitter.com/hawkeye_pirate_)
+- 😄 Firing Some Amazing Projects since 2020
+- ⚡  I am an Athelete too...
+
