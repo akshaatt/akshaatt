@@ -12,4 +12,4 @@
 
 - ⚡  I am an Athelete too...
 
-### Hey!! Do Chech Out My Top Projects  ↓ 
+### Hey!! Do Check Out My Top Projects  ↓ 
