@@ -2,9 +2,9 @@
 
 
 ## I'm a Student, Developer, Athelete,!!
- 🔭 I’m a Web Developer
+ 
+  🔭 I’m a Web Developer
  -🌱 Currently Studying: .React JSX and Java Script
-- 📫 Get me on  [Twitter](https://twitter.com/hawkeye_pirate_)
 - 😄 Firing Some Amazing Projects since 2020
 - ⚡  I am an Athelete too...
 
@@ -29,7 +29,8 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.javascript.com/)
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://reactjs.org/)
 
-
+<br />
+<br />
 
   <summary>:zap: Recent GitHub Activity</summary>
   
