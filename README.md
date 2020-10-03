@@ -2,8 +2,8 @@
 
 
 ## I'm a Student, Developer, Athelete,!!
- 
-  🔭 I’m a Web Developer
+ <br />
+  🔭 I’m a Web Developer <br />
  -🌱 Currently Studying: .React JSX and Java Script
 - 😄 Firing Some Amazing Projects since 2020
 - ⚡  I am an Athelete too...
