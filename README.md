@@ -3,10 +3,10 @@
 
 ## I'm a Student, Developer, Athlete,!!
  <br />
-  I’m a Web Developer <br />
-  Currently Studying: .React JSX and Java Script <br />
-  Firing Some Amazing Projects since 2020<br />
-  Athletics is Love
+ ###  I’m a Web Developer <br />
+  ### Currently Studying: .React JSX and Java Script <br />
+ ###  Firing Some Amazing Projects since 2020<br />
+ ###  Athletics is Love
 
 ### Spotify Playing 🎧
 
