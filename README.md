@@ -1,4 +1,4 @@
-### जय श्री राम, I'm Akshat - aka hawkeyepirate 👋
+###  I'm Akshat - 👋
 
 
 ## I'm a Learner, Developer, Athlete,!!
