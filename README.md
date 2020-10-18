@@ -1,7 +1,7 @@
-###  I'm Akshat - 👋
+###  I'm Akshat 👋
 
 
-## I'm a Learner, Developer, Athlete,!!
+## I'm a Learner, Developer, Athlete!!!
  <br />
    I’m a Web Developer <br />
    Currently Studying: .React JSX and Java Script <br />
