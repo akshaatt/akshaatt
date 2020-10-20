@@ -6,9 +6,11 @@
    I’m a Web Developer <br />
    Currently Studying: .React JSX and Java Script <br />
    Firing Some Amazing Projects since 2020<br />
+   Working on Wordpress and Bootstrap<br />
    Athletics is Love
 
 ### Spotify Playing 🎧
+
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
