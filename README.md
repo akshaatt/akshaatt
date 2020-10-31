@@ -34,5 +34,5 @@
 <br />
 <br />
 
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: Recent GitHub Activity...</summary>
   
