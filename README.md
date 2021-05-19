@@ -3,7 +3,7 @@
 
 ## I'm a Learner, Developer, Athlete!
  <br />
-   I’m a Web Developer <br />
+   I’m a Web Developer! <br />
    Currently Studying: .React JSX and Java Script <br />
    Firing Some Amazing Projects since 2020<br />
    Working on Wordpress and Bootstrap<br />
