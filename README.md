@@ -1,6 +1,6 @@
-###  JAI HIND 🇮🇳
+###  JAI HIND ! 
 
-### Myself Akshat!
+### Myself Akshat Sandeep Garg!
 ## I'm a Developing Developer!
  <br />
    I’m a Web Developer! <br />
