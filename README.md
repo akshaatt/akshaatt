@@ -6,7 +6,7 @@
    I’m a Web Developer! <br />
    Currently Studying: .React JSX and Java Script <br />
    Firing Some Amazing Projects since 2020<br />
-   Working on Wordpress and Bootstrap<br />
+   Able to work on Wordpress and Bootstrap too<br />
   
 
 ### Spotify Playing ...🎧
