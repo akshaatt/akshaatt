@@ -1,4 +1,4 @@
-###  I'm Akshat...👋
+###  JAI HIND 🇮🇳
 
 
 ## I'm a Developing Developer!
