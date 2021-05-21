@@ -1,7 +1,7 @@
 ###  JAI HIND ! 
 
 ### Myself Akshat Sandeep Garg!
-## I am a✅
+## I am a N✅
  <br />
    I’m a Web Developer! <br />
    Currently Studying: .React JSX and Java Script <br />
