@@ -2,7 +2,7 @@
 
 ### Myself Akshat Sandeep Garg!
 ## I am Learning ✅
- <br />
+ <br /><br />
    I’m a Web Developer! <br />
    Currently Studying: .React JSX and Java Script <br />
    Firing Some Amazing Projects since 2020<br />
